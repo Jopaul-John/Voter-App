@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VotingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_candidatelist">CandidatelistActivity</string>
+    <string name="title_activity_select_candidate">SelectCandidateActivity</string>
+    <string name="title_activity_unique_key">UniqueKeyActivity</string>
+<string name="party_logo">Party logo</string>
+</resources>
